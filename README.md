@@ -39,8 +39,8 @@ Website and digital code files are licensed under the **MIT License**, allowing 
 
 ## 🙏 Connect With Us
 
-📧 Email: [sabrinalclay@gmail.com](mailto:sabrinalclay@gmail.com)  
-📸 Instagram: [@UnifiedPrayerCircle](https://instagram.com/UnifiedPrayerCircle)  
+📧 Email: [unifiedprayer@gmail.com](mailto:unifiedprayer@gmail.com)  
+📸 Instagram: [@UnifiedPrayer](https://instagram.com/Unified)  
 🌐 Website: Coming Soon via Netlify
 
 ---
